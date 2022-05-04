@@ -29,6 +29,5 @@ author={Jicong Fan},
 booktitle={International Conference on Learning Representations},
 year={2022},
 
-url={https://openreview.net/forum?id=6YVIk0sAkF_}
-
+url={https://openreview.net/forum?id=6YVIk0sAkF_}\\
 }
