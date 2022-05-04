@@ -15,13 +15,20 @@ examples: synthetic tensor, movielens100k, a few other real tensors
 
 Please contact fanjicong@cuhk.edu.cn if you have any questions.
 
+
 Please cite the paper as:
 
 @inproceedings{
-fan2022multimode,
+
+fan2022multimode,]
+
 title={Multi-Mode Deep Matrix and Tensor Factorization},
+
 author={Jicong Fan},
+
 booktitle={International Conference on Learning Representations},
 year={2022},
+
 url={https://openreview.net/forum?id=6YVIk0sAkF_}
+
 }
