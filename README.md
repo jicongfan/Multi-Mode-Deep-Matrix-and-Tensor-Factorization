@@ -3,6 +3,8 @@
 This repo contains the main (MATLAB) codes of the following paper:
 Jicong Fan. Multi-Mode Deep Matrix and Tensor Factorization. ICLR 2022.
 
+Note that the documentation is a little bit coarse.
+
 M2DMTF_matrix is for matrix completion
 
 examples: synthetic matrix, movielens100k
